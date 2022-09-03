@@ -1,4 +1,4 @@
-HELP.md
+src/main/java/com/example/hrms/mernis/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
